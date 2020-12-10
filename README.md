@@ -3,5 +3,4 @@
 </a>
 
 # Mikail Khan
-
-I don't know what to write here but profile READMEs are cool
+Apparently I like Rust
