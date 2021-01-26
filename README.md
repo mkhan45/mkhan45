@@ -4,7 +4,3 @@
 
 # Mikail Khan
 Apparently I like Rust
-
-___
-
-Looking for a 2021 summer internship
